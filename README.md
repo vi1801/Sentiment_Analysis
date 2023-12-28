@@ -1,10 +1,10 @@
 # Sentiment Analysis
 Sentiment analysis on IMDB Dataset using NLTM, Linear Regression, Naive Bayes, SVC
 
-##Sentiment Analysis: 
+**Sentiment Analysis:** 
 Sentiment analysis is the process of analyzing digital text to determine if the emotional tone of the message is positive, negative, or neutral.
 
-##IMDB Dataset: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+**IMDB Dataset:** https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 - Large Movie Reviews dataset
 - IMDB dataset having 50K movie reviews for natural language processing or Text analytics.
 - This is a dataset for binary sentiment classification containing substantially more data than previous benchmark datasets.
