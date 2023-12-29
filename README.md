@@ -1,5 +1,5 @@
 # Sentiment Analysis
-Sentiment analysis on IMDB Dataset using NLTM, Linear Regression, Naive Bayes, SVC
+Sentiment analysis on IMDB Dataset using NLTK, Linear Regression, Naive Bayes, SVC
 
 **Sentiment Analysis:** 
 Sentiment analysis is the process of analyzing digital text to determine if the emotional tone of the message is positive, negative, or neutral.
